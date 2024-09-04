@@ -1,6 +1,6 @@
 # Leumi Assignment
 
-# Author of this task: Shay Guedj
+## Author of this task: Shay Guedj
 
 ## Important notes:
 
